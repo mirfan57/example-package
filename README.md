@@ -3,7 +3,7 @@
 ## How to use this package
 
 ```python
-from perceptron_pkg.perceptron import Perceptron
+from perceptron.perceptron import Perceptron
 
 model = Perceptron(eta=0.3, epochs=10)
 ```

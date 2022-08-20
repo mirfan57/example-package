@@ -10,7 +10,7 @@ PROJECT_NAME = "perceptron-pkg"
 
 setuptools.setup(
     name=f"{PKG_NAME}-{USER_NAME}",
-    version="0.0.2",
+    version="0.0.4",
     author=USER_NAME,
     author_email="mohdirfan57@gmail.com",
     description="A small example package for perceptron",
