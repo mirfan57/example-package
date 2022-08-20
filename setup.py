@@ -6,11 +6,11 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 PKG_NAME = "perceptron_pkg"
 USER_NAME = "mirfan57"
-PROJECT_NAME = "example-package"
+PROJECT_NAME = "perceptron-pkg"
 
 setuptools.setup(
     name=f"{PKG_NAME}-{USER_NAME}",
-    version="0.0.1",
+    version="0.0.2",
     author=USER_NAME,
     author_email="mohdirfan57@gmail.com",
     description="A small example package for perceptron",

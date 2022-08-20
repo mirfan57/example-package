@@ -1,8 +1,10 @@
 # Creating a python package
 
 ## How to use this package
+
 ```python
-from my_pkg.perceptron import Perceptron
+from perceptron_pkg.perceptron import Perceptron
+
 model = Perceptron(eta=0.3, epochs=10)
 ```
 
